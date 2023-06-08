@@ -96,7 +96,6 @@ $_SESSION['delmsg']="Sponser deleted";
                         </div
 
 
-
                         <div class="panel-body">
                             <div class="row">
                                 <div class="col-lg-12">
