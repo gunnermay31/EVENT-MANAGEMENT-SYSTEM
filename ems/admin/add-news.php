@@ -71,7 +71,6 @@ echo "<script>alert('Error : Something went wrong. Please try again. ');</script
                                 <div class="col-lg-6">
 <form role="form" method="post" >
 
-
 <!--Category Name -->
 <div class="form-group">
 <label>News Title</label>
